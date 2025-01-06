@@ -1,0 +1,28 @@
+.receipt-container {
+    background-color: white;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.receipt-header {
+    border-bottom: 2px dashed #ccc;
+}
+
+.receipt-items {
+    border-bottom: 1px dashed #ccc;
+}
+
+.receipt-total {
+    border-top: 2px dashed #ccc;
+}
+
+.input-field {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+}
+
+.input-field:focus {
+    border-color: #4a90e2;
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(74, 144, 226, 0.2);
+}
